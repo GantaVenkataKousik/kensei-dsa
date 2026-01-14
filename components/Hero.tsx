@@ -38,7 +38,7 @@ const Hero: React.FC = () => {
             Created By Ganta Venkata Kousik
           </p>
           <div className="flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="group relative px-6 py-2.5 md:px-8 md:py-3 overflow-hidden rounded-sm bg-[#B00906] text-white font-bold text-sm md:text-base tracking-widest transition-all duration-300 text-center">
+            <a href="https://github.com/GantaVenkataKousik/kensei-dsa/" target="_blank" rel="noopener noreferrer" className="group relative px-6 py-2.5 md:px-8 md:py-3 overflow-hidden rounded-sm bg-[#B00906] text-white font-bold text-sm md:text-base tracking-widest transition-all duration-300 text-center">
               <span className="relative z-10">GITHUB</span>
               <div className="absolute inset-0 bg-[#FFD176] transform -translate-x-full group-hover:translate-x-0 transition-transform duration-300"></div>
             </a>
