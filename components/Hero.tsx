@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
 
           <h2 className="text-[#B00906] font-accent text-2xl md:text-4xl mb-2 tracking-widest">Master Code</h2>
           <h1 className="text-[#FFD176] font-accent text-3xl sm:text-5xl md:text-7xl lg:text-8xl font-extrabold tracking-widest leading-tight mb-6 shadow-black drop-shadow-2xl whitespace-nowrap">
-            MASTER ALL <br></br>PATTERNS
+            MASTER DSA <br></br>PATTERNS
           </h1>
           <p className="text-[#E5DCC2] font-serif text-base md:text-xl max-w-lg mb-2 leading-relaxed font-medium">
             Solve DSA like Puzzles through Structured Patterns, <br></br>not Random Problems.
